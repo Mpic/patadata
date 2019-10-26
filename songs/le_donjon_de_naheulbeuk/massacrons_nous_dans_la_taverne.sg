@@ -10,10 +10,15 @@
   \gtab{A}{X02220}
 
   \begin{chorus}
+    \[D] \[Am] \[G] \[Am] - \[C]
+    \[D] \[Am] \[G] \[Am] - \[C]-\[D]
+  \end{chorus}
+
+  \begin{chorus}
     Les \[D]orques à droite et les elfes à gauche
-    Ma\[G]ssacrons-nous dans \[A]la ta\[D]verne
-    Y'en \[G]a qui disent que la danse c'est moche
-    Mais \[D]tout ça c'est des \[A]bali\[D]vernes
+    Ma\[G]ssacrons-nous dans la taverne
+    Y'en \[C]a qui disent que la danse c'est moche
+    Mais \[G]tout ça c'est des ba\[A]li\[D]vernes
   \end{chorus}
 
   \begin{verse}
@@ -23,6 +28,12 @@
     On pourra les manger farcis
   \end{verse}
 
+  \begin{chorus}
+    \textnote{Instru}
+    \[D] \[G] \[D] \[G] \[D] \[G] \[C]
+    \[D] \[G] \[D] \[G] \[C] \[G] - \[D]
+  \end{chorus}
+
   \begin{verse}
     En formation tous les archers
     Et vous visez un orque au choix
@@ -30,12 +41,16 @@
     Faudra courir un peu mieux qu'ça
   \end{verse}
 
+  \textnote{Instru + Refrain}
+
   \begin{verse}
     Attrapez l'elfe qu'est à votre droite
     Et foutez-lui des coups d'massue
     J'avance d'un pas, j'recule de quatre
     Et je lui mets un coup de pied \echo{ah ah !}
   \end{verse}
+  
+  \textnote{Instru}
 
   \begin{verse}
     Sortez vos dagues et plantez-les
@@ -44,6 +59,14 @@
     Tournez deux fois, sautez sur place
   \end{verse}
 
+  \textnote{Instru + Refrain}
+  
+  \echo{Et bah alors, c'est fini ?} \echo{Non !}
+  \begin{chorus}
+    \[D] \[Am] \[G] \[Am] - \[C]
+    \[D] \[Am] \[G] \[Am] - \[C]-\[D]
+  \end{chorus}
+
   \begin{verse}
     S'il reste un elfe encore vivant
     Attrapez-le par les cheveux
@@ -51,11 +74,15 @@
     Ça court moins vite et c'est tant mieux
   \end{verse}
 
+  \textnote{Instru}
+  
   \begin{verse}
     En sautant sur vos boucliers
     Vous surfez dans les flaques de sang
     Foncez sur tous les rescapés
     Ouf c'est fini, on est content
   \end{verse}
+
+  \textnote{Instru x2}
 
 \endsong
