@@ -1,0 +1,33 @@
+book:
+  lang: fr
+  datadir: ".."
+  pictures: yes
+  template: naheulbeuk.tex
+  encoding: utf8
+chords:
+  show: yes
+  diagramreminder: all
+  repeatchords: yes
+  lilypond: yes
+
+content:
+  - "menestrolls/*.*sg"
+  - sort:
+      key: ["title"]
+      content:    
+      - "le_donjon_de_naheulbeuk/*.sg"
+
+template:
+  patacrep.tex:
+    footer: "Musique du Naheulband: \\url{http://www.penofchaos.com/warham/donjon-groupe.htm}"
+    picture: "img/nb_cover"
+    picturecopyright: "Personnages par \\emph{Pen Of Chaos} / Illustrations par \\emph{Marion Poinsot}"
+    subtitle: "Recueil de chansons non-officiel"
+    version: "Ménestrolls"
+    bgcolor:
+      note: "FFFDB3"
+
+  default.tex:
+    title: "Ménestrolls & Le Donjon de Naheulbeuk"
+authors:
+  separators: ["and", "et"]
