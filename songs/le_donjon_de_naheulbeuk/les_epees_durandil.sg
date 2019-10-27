@@ -5,10 +5,11 @@
   url={http://www.penofchaos.com/warham/donjon-groupe.htm}]
 
   \cover
-  \capo{5}
+  \capo{3}
   \gtab{D}{XX0232}
   \gtab{A}{X02220}
   \gtab{G}{320003}
+  \gtab{Edim7}{XX2323}
 
 
   \textnote[english]{spoken}
@@ -42,7 +43,7 @@
   \begin{verse}
     Les épées Durandil, les épées Durandil
     Quand tu la sors dans un donjon au moins t'as pas l'air débile
-    C'est l'arme des bourrins, qui savent être subtils
+    C'est \[G]l'arme des bour\[A]rins, qui \[Edim7]savent être sub\[D]tils
     Ne partez pas à l'aventure sans votre épée Durandil
   \end{verse}
 

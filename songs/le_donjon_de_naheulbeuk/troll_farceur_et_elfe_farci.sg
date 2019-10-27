@@ -11,17 +11,19 @@
   \gtab{G}{320003}
 
   \begin{verse}
-    \[Am]J'ai rencontré un t\[C]roll
-    Il \[G]marchait dans la fo\[Am]rêt \rep{2}
-    \[Am]Il traînait derrière l\[C]ui
-    Un \[G]elfe tout empaqu\[Am]eté \rep{2}
+    \[Am]J'ai rencontré un troll
+    Il \[G]marchait dans la forêt
+    \echo{\[Am]J'ai rencontré un \[Em]troll
+    Il \[C]marchait dans \[G]la fo\[Am]rêt}
+    Il traînait derrière lui
+    Un elfe tout empaqueté \rep{2}
   \end{verse}
 
   \begin{chorus}
-    \[Am]Ah qu'il est fort, \[C]ah qu'il est beau
-    \[G]Ah qu'il est grand mon ami troll du Cha\[Am]os
-    \[Am]Ah qu'il est fort, \[C]ah qu'il est beau
-    \[G]Ah qu'il est grand mon ami troll du Cha\[Am]os
+    \[Am]Ah qu'il est fort, \[G]ah qu'il est beau
+    \[Em]Ah qu'il est \[G]grand mon a\[C]mi troll \[G]du Cha\[Am]os
+    \[Am]Ah qu'il est fort, \[G]ah qu'il est beau
+    \[Em]Ah qu'il est \[G]grand mon a\[C]mi troll \[G]du Cha\[Am]os
   \end{chorus}
 
   \begin{verse}
@@ -39,17 +41,19 @@
     Quand j'me suis retourné, ben il était plus là
   \end{verse}
 
+  \textnote{Calme}
+
   \begin{verse}
     Et j'ai suivi sa piste, pour trouver sa caverne
-    Puis je l'ai vu cachée, par delà le gros chêne
+    Puis je l'ai vu caché, par-delà le gros chêne
   \end{verse}
 
   \begin{verse}
     Alors j'ai vu le troll prendre un objet pointu
-    Et pour farcir les pommes il lui enfonçait dans l'***
+    Et pour farcir les pommes il lui enfonçait dans l'\echo{Aah !}
   \end{verse}
 
-  \image[width=5cm]{nb_ogre}
+  \image[width=4cm]{nb_ogre}
 
 \endsong
 

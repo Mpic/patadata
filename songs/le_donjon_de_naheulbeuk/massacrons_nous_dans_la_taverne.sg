@@ -10,8 +10,8 @@
   \gtab{A}{X02220}
 
   \begin{chorus}
-    \[D] \[Am] \[G] \[Am] - \[C]
-    \[D] \[Am] \[G] \[Am] - \[C]-\[D]
+    \[D] \[Am] \[G] \[Am - ] \[C]
+    \[D] \[Am] \[G] \[Am - ] \[C-]\[D]
   \end{chorus}
 
   \begin{chorus}
@@ -29,9 +29,9 @@
   \end{verse}
 
   \begin{chorus}
-    \textnote{Instru}
+    \textnote{Instru : }
     \[D] \[G] \[D] \[G] \[D] \[G] \[C]
-    \[D] \[G] \[D] \[G] \[C] \[G] - \[D]
+    \[D] \[G] \[D] \[G] \[C] \[G - ]\[D]
   \end{chorus}
 
   \begin{verse}
@@ -63,8 +63,8 @@
   
   \echo{Et bah alors, c'est fini ?} \echo{Non !}
   \begin{chorus}
-    \[D] \[Am] \[G] \[Am] - \[C]
-    \[D] \[Am] \[G] \[Am] - \[C]-\[D]
+    \[D] \[Am] \[G] \[Am - ] \[C]
+    \[D] \[Am] \[G] \[Am - ]\[C-]\[D]
   \end{chorus}
 
   \begin{verse}
